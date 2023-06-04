@@ -1,0 +1,7 @@
+strategy\DefendStrategy.class
+strategy\SoldierContext.class
+strategy\Stg.class
+strategy\IStrategy.class
+strategy\AttackStrategy.class
+strategy\FlankStrategy.class
+strategy\RetreatStrategy.class
